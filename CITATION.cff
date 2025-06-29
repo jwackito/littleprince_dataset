@@ -6,7 +6,7 @@ authors:
     given-names: Joaquin
 date-released: 2025-06-28
 version: "1.0.0"
-license: "CC BY-SA 4.0"
+license: "MIT License"
 url: "https://github.com/jwackito/littleprince_dataset"
 repository-code: "https://github.com/jwackito/littleprince_dataset"
 abstract: >
