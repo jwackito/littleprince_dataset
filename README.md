@@ -31,7 +31,7 @@ You are welcome to use this dataset for academic and research purposes. Please c
 
 ## License
 
-CC BY-SA 4.0
+MIT License
 
 ## Citation
 
