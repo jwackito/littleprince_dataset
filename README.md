@@ -1,0 +1,38 @@
+# Aligned Multilingual "The Little Prince" Dataset
+
+This repository provides a trilingual aligned version of *The Little Prince* (*Le Petit Prince*) by Antoine de Saint-Exupéry. It is intended for use in research and applications involving machine translation, parallel corpora, and cross-lingual language modeling.
+
+## Dataset Structure
+
+The dataset is organized into three folders, one for each language:
+```.
+├── english/
+│ └── thelittleprince.txt
+├── spanish/
+│ └── elprincipito.txt
+├── french/
+│ └── lepetitprince.txt
+```
+Each file contains the full text of *The Little Prince* in its respective language. The files are **line-aligned**, meaning that:
+- Line *n* in the English file corresponds to line *n* in the Spanish and French files.
+
+This alignment enables straightforward use in multilingual NLP tasks.
+
+## Example
+
+| English                          | Spanish                           | French                          |
+|----------------------------------|------------------------------------|----------------------------------|
+| Once when I was six years old... | Cuando tenía seis años...          | Lorsque j'avais six ans...       |
+| I saw a magnificent image...   | Vi una magnífica imagen...         | J'ai vu une magnifique image...  |
+
+## Usage
+
+You are welcome to use this dataset for academic and research purposes. Please cite the dataset as described below if you use it in your work.
+
+## License
+
+CC BY-SA 4.0
+
+## Citation
+
+See [CITATION.cff](./CITATION.cff) for the recommended citation format.
