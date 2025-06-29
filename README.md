@@ -35,11 +35,10 @@ MIT License
 
 ## Citation
 If you use this dataset, please cite it using the metadata below.
-```citation
+```bibtex
 @software{Bogado_Aligned_Multilingual_LittlePrince_2025,
         author = {Bogado, Joaquin},
         license = {MIT License},
-        month = jun,
         title = {{Aligned Multilingual 'The Little Prince' Dataset}},
         url = {https://github.com/jwackito/littleprince_dataset},
         version = {1.0.0},
