@@ -4,6 +4,8 @@ title: "Aligned Multilingual 'The Little Prince' Dataset"
 authors:
   - family-names: Bogado
     given-names: Joaquin
+  - family-names: Giuliodoro
+    given-names: Germán
 date-released: 2025-06-28
 version: "1.0.0"
 license: "MIT License"
