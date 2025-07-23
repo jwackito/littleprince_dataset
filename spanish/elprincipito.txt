@@ -598,8 +598,7 @@ respondió dulcemente la flor.
 
 El principito comprendió que no era muy modesta, pero era tan conmovedora!
 
-- Es la hora, creo, del desayuno  -había agregado poco después-, 
-tendría la bondad de pensar en mí...
+- Es la hora, creo, del desayuno  -había agregado poco después-, tendría la bondad de pensar en mí...
 El Principito está regando la flor.
 
 Y el principito, todo turbado, buscando una regadera con agua fresca había atendido a la flor.
@@ -619,8 +618,8 @@ Un día, por ejemplo, hablando de sus cuatro espinas, le dijo al principito:
 - No temo en absoluto a los tigres, pero tengo horror a las corrientes de aire. 
 No tendría usted una pantalla?
 
-"Horror a las corrientes de aire... no es muy afortunado, para una planta, había observado el principito.
-Esta flor es bien complicada..."
+-Horror a las corrientes de aire... no es muy afortunado, para una planta, había observado el principito.
+Esta flor es bien complicada...
 El Principito está salvando la flor.
 
 - A la noche me pondrá bajo un globo. 
@@ -642,15 +641,15 @@ Entonces ella había forzado su tos para infligirle de todos modos remordimiento
 Así el principito, a pesar de la buena voluntad de su amor, pronto dudó de ella. 
 Había tomado en serio palabras sin importancia, y se volvió muy desdichado.
 
-"Debería no haberla escuchado -me confió un día-, no hay que escuchar nunca a las flores. 
+-Debería no haberla escuchado -me confió un día-, no hay que escuchar nunca a las flores. 
 Hay que mirarlas y olerlas. 
 La mía perfumaba mi planeta, pero yo no sabía alegrarme con ella. 
-Esa historia de garras, que me había irritado tanto, debería haberme enternecido..."
+Esa historia de garras, que me había irritado tanto, debería haberme enternecido...
 Bestia de presa y la flor
 
 Me confió todavía:
 
-"No supe entonces entender nada! Debería haberla juzgado por los actos y no por las palabras. 
+-No supe entonces entender nada! Debería haberla juzgado por los actos y no por las palabras. 
 Me perfumaba y me iluminaba. 
 Nunca debería haberme escapado! Debería haber adivinado su ternura detrás de sus pobres artimañas. 
 Las flores son tan contradictorias! Pero yo era demasiado joven para saber amarla
@@ -664,7 +663,7 @@ La mañana de su partida ordenó bien su planeta.
 Deshollinó cuidadosamente sus volcanes en actividad. 
 Tenía dos volcanes en actividad, lo cual era muy cómodo para calentar el desayuno a la mañana. 
 Tenía también un volcán apagado. 
-Pero, como él decía, "Nunca se sabe!´. 
+Pero, como él decía, -Nunca se sabe!. 
 Deshollinó entonces también el volcán apagado. 
 Si están bien limpios, los volcanes arden suave y regularmente, sin erupciones. 
 Las erupciones volcánicas son como fuegos de chimenea. 
@@ -684,8 +683,7 @@ Pero ella no le respondió.
 
 La flor tosió. Pero no era a causa de su resfrío.
 
-- He sido tonta- le dijo al fin. - Te pido perdón. 
-Procura ser feliz.
+- He sido tonta- le dijo al fin. - Te pido perdón. Procura ser feliz.
 
 Él se sorprendió por la ausencia de reproches. 
 Se quedó ahí desconcertado, con el globo en el aire. 
@@ -1021,7 +1019,8 @@ De esas pequeñas cosas doradas que hacen soñar a los holgazanes.
 Pero yo soy una persona seria! No tengo tiempo paran ensoñaciones.
 - Ah! estrellas?
 
-- Sí, eso. Estrellas.
+- Sí, eso. 
+Estrellas.
 
 - Y qué haces con quinientos millones de estrellas?
 
@@ -1130,7 +1129,7 @@ Al menos, su trabajo tiene un sentido.
 Cuando enciende su farol, es como si hiciera nacer una estrella más, o una flor. 
 Cuando apaga su farol,se duermen la flor o la estrella. 
 Es una ocupación muy linda. 
-Es verdaderamente útil porque es linda."
+Es verdaderamente útil porque es linda.
 
 Cuando abordó el planeta saludó respetuosamente al farolero:
 
@@ -1220,7 +1219,7 @@ Es, quizá, porque se ocupa de algo más que de sí mismo.-
 Suspiró con tristeza y se dijo además:
 -Ése es el único que podría haber sido mi amigo. 
 Pero su planeta es, a decir verdad, demasiado pequeño. 
-No hay en él lugar para dos..."
+No hay en él lugar para dos...
 
 Lo que el principito no se atrevía a confesarse, es que extrañaba ese planeta bendito debido, principalmente, a las mil cuatrocientos cuarenta puestas de sol por cada veinticuatro horas!
 _______________________________________________________________________
@@ -1248,8 +1247,8 @@ Había viajado tanto!
 - Es un sabio que sabe dónde se encuentran los mares, los ríos, las ciudades, las montañas y los desiertos.
 
 - Eso es muy interesante – dijo el principito. 
-– Éste es, por fin, un verdadero oficio!. 
-- Y echó un vistazo a su alrededor sobre el planeta del geógrafo. 
+– Éste es, por fin, un verdadero oficio!. -
+Y echó un vistazo a su alrededor sobre el planeta del geógrafo. 
 Nunca había visto un planeta tan majestuoso.
 
 - Su planeta es hermoso. Tiene océanos?
@@ -1378,7 +1377,7 @@ Era grandioso.
 Solamente, el farolero del único farol del polo Norte, y su colega del único farol del polo Sur, llevaban vidas de ocio e indolencia:trabajaban dos veces por año.
 _______________________________________________________________________
 
- CAPÍTULO XVII
+CAPÍTULO XVII
 
 Cuando uno pretende mostrarse ingenioso, a veces se miente un poco. 
 No he sido muy honesto cuando les hablé de los faroleros. 
@@ -1461,7 +1460,7 @@ Puedo...-
 - Los resuelvo todos – dijo la serpiente.
 
 Y ambos se callaron.
-_El principito y la serpiente
+El principito y la serpiente
 ______________________________________________________________________
 
 CAPÍTULO XVIII
@@ -1762,7 +1761,8 @@ CAPÍTULO XXII
 
 Y un rápido iluminado, rugiendo como el trueno, hizo temblar la cabina de cambio de agujas.
 
-- Están bien apurados – dijo el principito. – Qué buscan?
+- Están bien apurados – dijo el principito.
+– Qué buscan?
 
 - El mismo hombre de la locomotora lo ignora – dijo el guardagujas.
 
@@ -1831,7 +1831,7 @@ Sin comprender mi razonamiento, me respondió:
 - Es bueno haber tenido un amigo, incluso si uno va a morir. 
 Yo me siento muy contento de haber tenido un amigo zorro...
 
-No mide el peligro - me dije. 
+-No mide el peligro - me dije. 
 - Nunca tiene hambre ni sed. 
 Un poco de sol le alcanza...
 
@@ -2272,44 +2272,37 @@ Yo estaba triste pero les decía: es el cansancio...
 Ahora me he consolado un poco. 
 Es decir... no totalmente. 
 Pero sé que él regresó a su planeta, porque cuando salió el sol no encontré su cuerpo. 
-No era un cuerpo tan pesado... Y me gusta por la noche escuchar
-a las estrellas. Son como quinientos millones de cascabeles...
+No era un cuerpo tan pesado... Y me gusta por la noche escuchar a las estrellas. 
+Son como quinientos millones de cascabeles...
 
-Pero he aquí que sucede algo extraordinario. Al bozal que le dibujé al
-principito, me olvidé de agregarle la correa de cuero! Nunca habrá
-podido colocárselo al cordero. Entonces me pregunto: "Qué es lo que
-sucedió en su planeta? Posiblemente el cordero se haya comido la
-flor..."
+Pero he aquí que sucede algo extraordinario. 
+Al bozal que le dibujé al principito, me olvidé de agregarle la correa de cuero! Nunca habrá podido colocárselo al cordero. 
+Entonces me pregunto: -Qué es lo que sucedió en su planeta? Posiblemente el cordero se haya comido la  flor...
 
-A veces me digo: "Seguramente que no! El principito guarda su flor
-todas las noches bajo su globo de vidrio y vigila bien a su cordero..."
-Entonces me pongo contento. Y todas las estrellas ríen en voz baja.
+A veces me digo: -Seguramente que no! El principito guarda su flor todas las noches bajo su globo de vidrio y vigila bien a su cordero...
+Entonces me pongo contento. 
+Y todas las estrellas ríen en voz baja.
 
-Otras veces me digo: "Uno puede distraerse en cualquier momento, y con
-eso basta! Se olvidó alguna vez el globo de vidrio, o bien el cordero
-salió sin hacer ruido durante la noche..." Entonces los cascabeles se
-convierten todos en lágrimas!...
+Otras veces me digo: -Uno puede distraerse en cualquier momento, y con eso basta! Se olvidó alguna vez el globo de vidrio, o bien el cordero salió sin hacer ruido durante la noche...- Entonces los cascabeles se convierten todos en lágrimas!...
 
-Ése es un gran misterio. Tanto para ustedes que aman también al
-principito como para mí, nada en el universo es parecido si en alguna
-parte, no se sabe dónde, un cordero que no conocemos ha comido o no una
-rosa...
+Ése es un gran misterio. 
+Tanto para ustedes que aman también al principito como para mí, nada en el universo es parecido si en alguna parte, no se sabe dónde, un cordero que no conocemos ha comido o no una rosa...
 
-Miren el cielo. Pregúntense: el cordero se comió o no a la flor? Y
-verán como cambia todo...
+Miren el cielo. 
+Pregúntense: el cordero se comió o no a la flor? Y verán como cambia todo...
 
 Y ningún adulto comprenderá jamás la importancia que esto tiene!
 
-Éste es para mí el más bello y el más triste paisaje del mundo. Es el
-mismo paisaje de la página anterior, pero lo dibujé una vez más para
-mostrárselos bien. Es acá que el principito apareció en la tierra, y
-luego desapareció.
+landscape
 
-Miren con atención este paisaje para estar seguros de reconocerlo, si
-viajan algún día por el desierto de África. Y si llegan a pasar por
-allí, les suplico que no se apuren y que esperen un poco, justo bajo la
-estrella! Si entonces se les aproxima un niño, si ríe, si tiene
-cabellos dorados, si no responde cuando se lo interroga, podrán
-adivinar de quién se trata. Entonces, sean amables! No me dejen tan
-triste: escríbanme pronto que ha regresado...
+Éste es para mí el más bello y el más triste paisaje del mundo. 
+Es el mismo paisaje de la página anterior, pero lo dibujé una vez más para mostrárselos bien. 
+Es acá que el principito apareció en la tierra, y luego desapareció.
+
+Miren con atención este paisaje para estar seguros de reconocerlo, si viajan algún día por el desierto de África. 
+Y si llegan a pasar por allí, les suplico que no se apuren y que esperen un poco, justo bajo la estrella! 
+Si entonces se les aproxima un niño, si ríe, si tiene cabellos dorados, si no responde cuando se lo  interroga, podrán adivinar de quién se trata. 
+
+Entonces, sean amables! No me dejen tan triste: escríbanme pronto que ha regresado...
 _______________________________________________________________________
+FIN  
