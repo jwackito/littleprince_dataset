@@ -37,7 +37,7 @@ MIT License
 If you use this dataset, please cite it using the metadata below.
 ```bibtex
 @software{Bogado_Aligned_Multilingual_The_2025,
-        author = {Bogado, Joaquin and Giuliodoro, Germán},
+        author = {Bogado, Joaquin and Giuliodoro, Germán and da Silva Santana Lopes, Barbara},
         license = {MIT License},
         month = jun,
         title = {{Aligned Multilingual 'The Little Prince' Dataset}},
