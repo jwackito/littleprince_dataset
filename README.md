@@ -5,13 +5,19 @@ This repository provides a trilingual aligned version of *The Little Prince* (*L
 ## Dataset Structure
 
 The dataset is organized into three folders, one for each language:
-```.
+```
 ├── english/
 │ └── thelittleprince.txt
+│ └── data.txt ⬏
 ├── spanish/
 │ └── elprincipito.txt
+│ └── data.txt ⬏
 ├── french/
 │ └── lepetitprince.txt
+│ └── data.txt ⬏
+├── portuguese/
+│ └── opequenoprincipe.txt
+│ └── data.txt ⬏
 ```
 Each file contains the full text of *The Little Prince* in its respective language. The files are **line-aligned**, meaning that:
 - Line *n* in the English file corresponds to line *n* in the Spanish and French files.
