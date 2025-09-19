@@ -6,6 +6,8 @@ authors:
     given-names: Joaquin
   - family-names: Giuliodoro
     given-names: Germán
+  - family-names: da Silva Santana Lopes
+    given-names: Barbara
 date-released: 2025-06-28
 version: "1.0.0"
 license: "MIT License"
@@ -13,5 +15,5 @@ url: "https://github.com/jwackito/littleprince_dataset"
 repository-code: "https://github.com/jwackito/littleprince_dataset"
 abstract: >
   A line-aligned trilingual dataset of Antoine de Saint-Exupéry's 'The Little Prince',
-  available in English, Spanish, and French. Useful for training and evaluating multilingual
+  available in English, Spanish, French and Portuguese. Useful for training and evaluating multilingual
   language models and translation systems.
